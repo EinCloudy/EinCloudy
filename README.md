@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hey 👋
 
-<!--
-**cloudlesstv/cloudlesstv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Joel Obi (18 years old)
+I'm developing in Java (since 2018), Web (HTML, CSS, JS, PHP) (since 2019), Python (since 2019) and small Projects in C# or C++ (Arduino)
 
-Here are some ideas to get you started:
+## Contact
+- Discord: CloudLess#1337
+- E-Mail: contact@cloudlesstv.de
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## My Stats
+
+
+
+### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cloudlesstv&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudlesstv&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Support me and my work
+https://www.buymeacoffee.com/joelobi
