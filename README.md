@@ -1,7 +1,8 @@
 ## Hey 👋
 
 My Name is Joel Obi (18 years old)
-I'm developing in Java (since 2018), Web (HTML, CSS, JS, PHP) (since 2019), Python (since 2019) and small Projects in C# or C++ (Arduino)
+Currently I'm studying Computer Scince at University of Mannheim.
+I'm developing in Java (since 2018), Web (HTML, CSS, JS, PHP) (since 2019), Python (since 2019) and small Projects in Swift, C# or C++ (Arduino)
 
 ## Contact
 - Discord: CloudLess#1337
