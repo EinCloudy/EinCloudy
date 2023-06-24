@@ -12,13 +12,6 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 - E-Mail: contact@cloudlesstv.de
 
 
-
-## My Stats
-
-### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cloudlesstv&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudlesstv&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Technologies
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
