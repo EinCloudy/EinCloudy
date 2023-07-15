@@ -8,7 +8,7 @@ Acquiring knowledge in IT is my hobby.
 Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogXd3HYzi8JjGzJ4tdWcC2LtY
 
 ## Contact
-- Discord: CloudLess#1337
+- Discord: @cloudlesstv
 - E-Mail: contact@cloudlesstv.de
 
 
@@ -45,7 +45,6 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Libraries
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
