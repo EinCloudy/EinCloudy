@@ -1,6 +1,6 @@
 ## Hey 👋
 
-My Name is Joel Obi (18 years old)\
+My Name is Joel Obi (19 years old)\
 I'm developing in Java (since 2018), Web (HTML, CSS, JS, PHP) (since 2019), Python (since 2019) and small Projects in Swift, C# or C++ (Arduino).
 
 Acquiring knowledge in IT is my hobby.
