@@ -8,9 +8,9 @@ Acquiring knowledge in IT is my hobby.
 Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogXd3HYzi8JjGzJ4tdWcC2LtY
 
 ## Contact
-- Discord: @cloudlesstv
-- E-Mail: contact@cloudlesstv.de
-- More: https://i.cloudlesstv.de
+- Discord: @eincloudy
+- E-Mail: cloudlesstv@magic4d.net
+- More: https://l.1cloudy.de
 
 
 ## Technologies
