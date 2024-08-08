@@ -1,9 +1,8 @@
 ## Hey 👋
 
-My Name is Joel Obi (19 years old)\
-I'm developing in Java (since 2018), Web (HTML, CSS, JS, PHP) (since 2019), Python (since 2019) and small Projects in Swift, C# or C++ (Arduino).
-
-Acquiring knowledge in IT is my hobby.
+My Name is Joel Obi (20 years old)\
+I'm developing in Java (since 2018), Web (HTML, CSS, JS, PHP) (since 2019), Python (since 2019) and small Projects in Swift, C# or C++ (Arduino).\
+My goal is to continuosly improve my knowledge horizon. :)
 
 Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogXd3HYzi8JjGzJ4tdWcC2LtY
 
@@ -12,9 +11,17 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 - E-Mail: cloudlesstv@magic4d.net
 - More: https://l.1cloudy.de
 
+## Hobbies
+- Motorcycling (my main hobby) 🏍️ 
+- Continuously trying out some sport activities ⚽️
+- Programming 👨‍💻
+- Acquiring IT Knowledge 👨‍💻
+- Home Automation and Network Infrastructure 👨‍💻
 
 ## Technologies
 ### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,6 +55,7 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 ### Libraries & Toolchains
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 
 ### Administration
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -63,10 +71,7 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 
 ### Learning
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 
 ## Support me and my work
 https://www.buymeacoffee.com/joelobi
