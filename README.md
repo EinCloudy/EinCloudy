@@ -8,8 +8,9 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 
 ## Contact
 - Discord: @eincloudy
-- E-Mail: cloudlesstv@magic4d.net
-- More: https://1cloudy.de
+- E-Mail: contact@joel-obi.de
+- More: https://joel-obi.de
+- LinkedIn: https://www.linkedin.com/in/joel-obi/
 
 ## Hobbies
 - Motorcycling (my main hobby) 🏍️ 
