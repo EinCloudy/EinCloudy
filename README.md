@@ -13,7 +13,8 @@ Funfact: I have my own SPL Token https://solscan.io/token/EaxUnKBSP18HMvxRyjMogX
 - LinkedIn: https://www.linkedin.com/in/joel-obi/
 
 ## Hobbies
-- Motorcycling (my main hobby) 🏍️ 
+- Motorcycling (my main hobby) 🏍️
+- Scuba Diving 🤿
 - Continuously trying out some sport activities ⚽️
 - Programming 👨‍💻
 - Acquiring IT Knowledge 👨‍💻
